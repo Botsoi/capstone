@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Smart Inventory Admin</title>
+<link rel="stylesheet" href="css/design.css">
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+<div id="notification" class="notification"></div>
+<div class="sidebar">
+    <h2>Inventory</h2>
+    <ul>
+        <li id="navDashboard">Dashboard</li>
+        <li id="navProducts">Products</li>
+        <li id="logoutBtn">LOGOUT</li>
+    </ul>
+</div>
+<div class="main">
+    <div id="dashboardPage">
+        <h2>Dashboard</h2>
+        <div class="cards">
+            <div class="card" id="cardApparel"><h3>Apparel</h3><h2>0</h2></div>
+            <div class="card" id="cardFurniture"><h3>Furniture</h3><h2>0</h2></div>
+            <div class="card" id="cardElectronics"><h3>Electronics</h3><h2>0</h2></div>
+            <div class="card" id="cardTotal"><h3>Total Products</h3><h2>0</h2></div>
+        </div>
+        <div class="category-charts"></div>
+    </div>
+    <div id="productsPage" style="display:none;">
+        <div class="topbar">
+            <input type="text" id="search" class="search" placeholder="Search products...">
+            <button class="btn" id="addBtn" onclick="openModal()">+ Add Product</button>
+        </div>
+        <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Category</th>
+                    <th>Quantity</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody id="productTable"></tbody>
+        </table>
+        <div class="modal" id="modal">
+            <div class="modal-content">
+                <h3>Add / Edit Product</h3>
+                <input type="text" id="name" placeholder="Product Name">
+                <select id="category">
+                    <option value="">Select Category</option>
+                    <option value="Apparel">Apparel</option>
+                    <option value="Furniture">Furniture</option>
+                    <option value="Electronics">Electronics</option>
+                </select>
+                <input type="number" id="qty" placeholder="Quantity">
+                <button class="btn" onclick="saveProduct()">Save</button>
+                <button onclick="closeModal()">Cancel</button>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="javascript/function.js"></script>
+</body>
+</html>
