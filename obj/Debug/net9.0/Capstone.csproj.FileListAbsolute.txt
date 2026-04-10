@@ -63,9 +63,9 @@ C:/Users/SMEAG/Downloads/Inventory/capstone/Capstone/obj/Debug/net9.0/compressed
 /home/archlinux/Downloads/capstone/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
 /home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/i7rtntxzub-{0}-dtw8svqzrl-dtw8svqzrl.gz
 /home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/t4ljmr6ltp-{0}-4hidi85pvu-4hidi85pvu.gz
-/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/4gpazvkv0g-{0}-wsw5xt52i8-wsw5xt52i8.gz
 /home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/4oqeqwso3a-{0}-wo7qde86um-wo7qde86um.gz
 /home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/kqkrg9utn5-{0}-maxswjf0zd-maxswjf0zd.gz
-/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/n12dbjx1ta-{0}-4hddwyn0mi-4hddwyn0mi.gz
 /home/archlinux/Downloads/capstone/obj/Debug/net9.0/staticwebassets.build.json.cache
 /home/archlinux/Downloads/capstone/obj/Debug/net9.0/swae.build.ex.cache
+/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/4gpazvkv0g-{0}-fo5pdjcfb2-fo5pdjcfb2.gz
+/home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/n12dbjx1ta-{0}-lv7f0akqgm-lv7f0akqgm.gz
