@@ -69,3 +69,39 @@ C:/Users/SMEAG/Downloads/Inventory/capstone/Capstone/obj/Debug/net9.0/compressed
 /home/archlinux/Downloads/capstone/obj/Debug/net9.0/swae.build.ex.cache
 /home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/4gpazvkv0g-{0}-fo5pdjcfb2-fo5pdjcfb2.gz
 /home/archlinux/Downloads/capstone/obj/Debug/net9.0/compressed/n12dbjx1ta-{0}-lv7f0akqgm-lv7f0akqgm.gz
+C:\Users\Windows 11\Desktop\capstone\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Windows 11\Desktop\capstone\bin\Debug\net9.0\appsettings.json
+C:\Users\Windows 11\Desktop\capstone\bin\Debug\net9.0\Capstone.staticwebassets.runtime.json
+C:\Users\Windows 11\Desktop\capstone\bin\Debug\net9.0\Capstone.staticwebassets.endpoints.json
+C:\Users\Windows 11\Desktop\capstone\bin\Debug\net9.0\Capstone.exe
+C:\Users\Windows 11\Desktop\capstone\bin\Debug\net9.0\Capstone.deps.json
+C:\Users\Windows 11\Desktop\capstone\bin\Debug\net9.0\Capstone.runtimeconfig.json
+C:\Users\Windows 11\Desktop\capstone\bin\Debug\net9.0\Capstone.dll
+C:\Users\Windows 11\Desktop\capstone\bin\Debug\net9.0\Capstone.pdb
+C:\Users\Windows 11\Desktop\capstone\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Windows 11\Desktop\capstone\obj\Debug\net9.0\Capstone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\Desktop\capstone\obj\Debug\net9.0\Capstone.AssemblyInfoInputs.cache
+C:\Users\Windows 11\Desktop\capstone\obj\Debug\net9.0\Capstone.AssemblyInfo.cs
+C:\Users\Windows 11\Desktop\capstone\obj\Debug\net9.0\Capstone.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\Desktop\capstone\obj\Debug\net9.0\Capstone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Windows 11\Desktop\capstone\obj\Debug\net9.0\Capstone.sourcelink.json
+C:\Users\Windows 11\Desktop\capstone\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Windows 11\Desktop\capstone\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Windows 11\Desktop\capstone\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Windows 11\Desktop\capstone\obj\Debug\net9.0\scopedcss\bundle\Capstone.styles.css
+C:\Users\Windows 11\Desktop\capstone\obj\Debug\net9.0\compressed\i7rtntxzub-{0}-ud1me191e8-ud1me191e8.gz
+C:\Users\Windows 11\Desktop\capstone\obj\Debug\net9.0\compressed\t4ljmr6ltp-{0}-ruft0qu6gr-ruft0qu6gr.gz
+C:\Users\Windows 11\Desktop\capstone\obj\Debug\net9.0\compressed\4gpazvkv0g-{0}-nr9u4ccoz7-nr9u4ccoz7.gz
+C:\Users\Windows 11\Desktop\capstone\obj\Debug\net9.0\compressed\4oqeqwso3a-{0}-jylwyso8s3-jylwyso8s3.gz
+C:\Users\Windows 11\Desktop\capstone\obj\Debug\net9.0\compressed\kqkrg9utn5-{0}-gjh5qwttsg-gjh5qwttsg.gz
+C:\Users\Windows 11\Desktop\capstone\obj\Debug\net9.0\compressed\n12dbjx1ta-{0}-2gc5ap9jou-2gc5ap9jou.gz
+C:\Users\Windows 11\Desktop\capstone\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Windows 11\Desktop\capstone\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Windows 11\Desktop\capstone\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Windows 11\Desktop\capstone\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Windows 11\Desktop\capstone\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\Windows 11\Desktop\capstone\obj\Debug\net9.0\Capstone.dll
+C:\Users\Windows 11\Desktop\capstone\obj\Debug\net9.0\refint\Capstone.dll
+C:\Users\Windows 11\Desktop\capstone\obj\Debug\net9.0\Capstone.pdb
+C:\Users\Windows 11\Desktop\capstone\obj\Debug\net9.0\Capstone.genruntimeconfig.cache
+C:\Users\Windows 11\Desktop\capstone\obj\Debug\net9.0\ref\Capstone.dll
